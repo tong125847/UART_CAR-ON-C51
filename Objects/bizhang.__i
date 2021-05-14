@@ -1,0 +1,1 @@
+"bizhang.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(..\普中科技单片机的蓝牙遥控小车) DEBUG OBJECTEXTEND PRINT(.\Listings\bizhang.lst) TABS (2) OBJECT(.\Objects\bizhang.obj)

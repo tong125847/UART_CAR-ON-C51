@@ -1,0 +1,9 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\delay.obj",
+".\Objects\usart.obj",
+".\Objects\pwm.obj",
+".\Objects\beep.obj",
+".\Objects\bizhang.obj" 
+TO ".\Objects\usart car" 
+PRINT(".\Listings\usart car.m51")
